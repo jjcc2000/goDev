@@ -10,10 +10,3 @@ func main() {
 	fmt.Println("This is the third line edited by nano")
 	fmt.Println(uuid.New().String());
 }
-
-
-func inn(){
-	int x;9
-	int a =0
-	int 
-}
